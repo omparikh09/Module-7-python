@@ -1,0 +1,14 @@
+Q-3. Slicing a list: accessing a range of elements.
+
+ans:
+    1. Basic Slicing :-
+        Extract a subset using start and end indices.
+
+    2. Using Steps :-
+        The step parameter determines the jump between elements.
+
+        -> A positive step moves forward.
+        -> A negative step reverses the order.
+
+    3. Slicing with Negative Indexing :-
+        Negative indexing allows slicing from the end.

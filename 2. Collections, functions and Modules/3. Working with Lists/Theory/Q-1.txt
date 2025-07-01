@@ -1,0 +1,17 @@
+Q-1. Iterating over a list using loops.
+
+ans:
+    1. Using a for Loop :-
+        The most common way to iterate over a list.
+
+    2. Using for Loop with Index (range(len())) :-
+        If you need both index and value, use range(len(list)).
+
+    3. Using enumerate() (Best for Index + Value) :-
+        enumerate() gives both index and value directly.
+
+    4. Using while Loop :-
+        Loop through a list until a condition is met.
+
+    5. Using List Comprehension :-
+        Shorter syntax for looping.

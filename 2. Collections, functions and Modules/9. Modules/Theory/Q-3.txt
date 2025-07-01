@@ -1,0 +1,19 @@
+Q-3. Creating custom modules.
+
+ans:
+    Creating custom modules in Python is a great way to keep your code organized, reusable, and efficient.
+
+    1. Create a Python file :-
+        Any .py file can be treated as a module. For example, let's create a file named my_module.py.
+
+    2. Import the module in another script :-
+        You can import and use this module in another Python file.
+
+    3. Using from ... import for specific functions :-
+        If you need only certain functions from your module.
+
+    4. Adding a __main__ check :-
+        If you want to make your module runnable as a standalone script but still usable when imported.
+
+    5. Organizing modules into packages :-
+        If you have multiple related modules, you can organize them into a package by creating a folder with an __init__.py file

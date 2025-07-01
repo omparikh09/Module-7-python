@@ -1,0 +1,21 @@
+Q-3. Anonymous functions (lambda functions).
+
+ans:
+    Lambda function in python are anonymous functions, They are primarily used for short, simple operations and 
+    are written in a single line.
+ 
+    1. Syntax of a Lambda Function :-
+        lambda arguments: expression
+
+    2. Using Lambda Inside Other Functions :-
+        Lambda functions can be used within regular functions.
+
+    3. Using Lambda in map(), filter(), and reduce() :-
+        1. map() :-
+            Applies a lambda function to each item in an iterable.
+
+        2. filter() :-
+            Extracts values matching a condition.
+
+        3. reduce() :-
+            Performs cumulative operations. 

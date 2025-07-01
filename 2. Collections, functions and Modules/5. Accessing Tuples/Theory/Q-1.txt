@@ -1,0 +1,12 @@
+Q-1. Accessing tuple elements using positive and negative indexing.
+
+ans:
+    1. Positive Indexing :-
+        -> Indexes start from 0 for the first element.
+        -> Use tuple[index] to access values.
+
+    2. Negative Indexing :-
+        -> Negative indexes count from the end.
+        -> -1 refers to the last element, -2 to the second last, and so on.
+
+    

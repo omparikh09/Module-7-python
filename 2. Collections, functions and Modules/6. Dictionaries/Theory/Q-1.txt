@@ -1,0 +1,13 @@
+Q-1. Introduction to dictionaries: key-value pairs.
+
+ans: 
+    Dictionary is a collection type that can store element as key and value pairs. Dictionaries are 
+    unordered, mutable, and indexed key and value separating by colons (:). Each key and value pair 
+    separating by comma (,). Dictionaries are created by curly braces {}.
+
+    1. Creating a Dictionary :-
+        Keys are unique identifiers, and values hold associated data.
+
+    2. Accessing Elements :-
+        -> Retrieve values using keys.
+        -> get() prevents errors if the key doesn’t exist.

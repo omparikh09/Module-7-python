@@ -1,0 +1,17 @@
+Q-2. Creating and accessing elements in a tuple.
+
+ans:
+    1. Creating a Tuple :-
+        Tuples can be created using parentheses () or by separating values with commas.
+
+    2. Accessing Elements in a Tuple :-
+        Just like lists, tuples support indexing.
+
+    3. Slicing a Tuple :-
+        Extract multiple elements using slicing (tuple[start:end:step]).
+
+    4. Tuple Properties
+        -> Immutable: Cannot change elements after creation.
+        -> Ordered: Maintains the sequence of elements.
+        -> Supports indexing and slicing.
+        -> Can store mixed data types.

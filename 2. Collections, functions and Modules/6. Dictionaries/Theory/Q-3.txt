@@ -1,0 +1,11 @@
+Q-3. Dictionary methods like keys(), values(), and items().
+
+ans:
+    1. keys() :-
+        Returns a view object containing all dictionary key.
+
+    2. values() :-
+        Returns a view object of all vlaues.
+
+    3. items() :-
+        Returns (key, value) pairs as tuples inside a list.

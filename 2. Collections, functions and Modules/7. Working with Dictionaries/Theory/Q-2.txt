@@ -1,0 +1,8 @@
+Q-2. Merging two lists into a dictionary using loops or zip().
+
+ans:
+    1. zip() :-
+        The most efficient way to merge two lists into a dictionary is using zip().
+
+    2. Using a Loop :-
+        If you want more control, you can use a loop to merge the lists manually.

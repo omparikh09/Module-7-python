@@ -1,0 +1,14 @@
+Q-2. Different types of functions: with/without parameters, with/without return values.
+
+ans:
+    1. Without Parameters & Without Return Value :- 
+        Executes a task without taking input or returning result.
+
+    2. With Parameters & Without Return Value :-
+        Takes input by only performs an action without returning result.
+
+    3. Without Parameters & With Return Value :- 
+        Returns a computed value without requiring input.
+
+    4. With Parameters & With Return Value :- 
+        Accepts input and returns processed output, making it the most flexible type.

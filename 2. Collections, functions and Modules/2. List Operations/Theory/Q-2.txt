@@ -1,0 +1,14 @@
+Q-2. Understanding list methods like append(), insert(), remove(), pop().
+
+ans:
+    1. append() :-
+        Adds a single element to the end of a list.
+
+    2. insert() :-
+        Add element at spacified index.
+    
+    3. remove() :-
+        Removes the first matching element by value.
+
+    4. pop() :-
+        Removes and returns an element by index(defaults to last).

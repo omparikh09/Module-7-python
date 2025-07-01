@@ -1,0 +1,23 @@
+Q-1. Iterating over a dictionary using loops.
+
+ans:
+    1. Iterating Over Keys :-
+        Loop through only the keys in a dictionary.
+
+        Example :-
+            for key in dict:
+    
+    2. Iterating Over Values :-
+        Access only values.
+        
+        Example :-
+            for value in dict.values():
+
+    3. Iterating Over Key-Value Pairs :-
+        Retrieve both keys and values using .items().
+
+        Example :-
+            for key, value in dict.items():
+
+    4. Using enumerate() to Loop Over Dictionary Items:-
+        Convert dictionary items into an indexed sequence.

@@ -1,0 +1,22 @@
+Q-1. Defining functions in Python.
+
+ans:
+    A function in Python is a block of code that only runs when it is called. Functions allow us to reuse code, 
+    make the code more modular, and help break down complex problems into smaller, manageable tasks.
+
+    1. Defining a Function :-
+        Defining function using def keyword means defintion keywords.
+    
+    2. Calling a Function :-
+        Invoke the function by passing the required arguments.
+
+    3. Returning Values :-
+        Functions can return results using return.
+
+    4. Default Arguments :-
+        You can assign default values to function parameters.
+
+    5. Variable-Length Arguments (*args, **kwargs)
+        1. *args :- Accepts multiple positional arguments.
+        
+        2. **kwargs :- Accepts multiple keyword arguments.

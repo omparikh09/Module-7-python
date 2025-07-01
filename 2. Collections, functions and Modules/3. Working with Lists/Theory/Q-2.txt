@@ -1,0 +1,11 @@
+Q-2. Sorting and reversing a list using sort(), sorted(), and reverse().
+
+ans:
+    1. sort() :-
+        Sort a list into ascending order.
+
+    2. sorted() :-
+        Creates a new sorted list without changing the original.
+
+    3. reverse() :-
+        Sort a list into a desending order.

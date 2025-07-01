@@ -1,0 +1,11 @@
+Q-2.  Slicing a tuple to access ranges of elements.
+
+ans:
+    1. Basic Slicing :-
+        Extract a portion of a tuple using start and end indices.
+
+    2. Using Steps :-
+        The step parameter controls jumps between elements.
+
+    3. Slicing with Negative Indexing :-
+        Negative indexes allow slicing from the end.

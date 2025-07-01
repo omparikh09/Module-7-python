@@ -1,0 +1,21 @@
+Q-1. Introduction to Python modules and importing modules.
+
+ans:
+    modules are files containing Python code that define functions, classes, and variables, 
+    as well as executable code.
+
+    1. What Are Modules? :-
+        A module is simply a Python file (.py) that contains reusable code.
+
+    2. Importing a Module :-
+        Use import module_name to access functions or variables inside a module.
+
+    3. Importing Specific Functions :-
+        Instead of importing the full module, you can import only what you need.
+
+    4. Renaming a Module (Using as) :-
+        You can assign a shorter alias to a module.
+
+    5. Importing Built-in Python Modules :-
+        Python provides many built-in modules.
+

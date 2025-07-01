@@ -1,0 +1,29 @@
+Q-1. Understanding how to create and access elements in a list.
+
+ans:
+    List is a ordered, mutable collection that store multiple items in a single variables.
+
+    1. Creating a List :-
+        Lists can hold multiple data types, including numbers, strings, and even other lists.
+
+    2. Accessing Elements :-
+        Use indexing to retrieve specific elements.
+    
+    3. Slicing a List :-
+        Extract multiple elements using slicing.
+
+    4. Modifying a list :-
+        Lists are mutable, meaning elements can be changed.
+
+    5. Adding Elements :-
+        1. append :-
+            Add element and of the list.
+
+        2. insert :-
+            Add element at spacified index.
+
+        3. extend :-
+            Add multiple element and of the list.
+
+    6. Removeing Elements :-
+        Remove element form the list using remove method.

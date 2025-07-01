@@ -1,0 +1,12 @@
+Q-1. Common list operations: concatenation, repetition, membership.
+
+ans:
+    1. Concatenation :- 
+        Combining multiple lists into a single list using (+) Operator.
+
+    2. Repetition :-
+        Repeating a list multiple times using (*) Operator.
+
+    3. Membership :-
+        Checking if an item exists in a list using in and not in Operator.
+        

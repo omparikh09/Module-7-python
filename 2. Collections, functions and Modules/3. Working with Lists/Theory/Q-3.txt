@@ -1,0 +1,28 @@
+Q-3. Basic list manipulations: addition, deletion, updating, and slicing.
+
+ans:
+    1. Adding Elements :-
+        1. append() :- 
+            add single element and of the list.
+
+        2. insert() :-
+            add single element at a spacific index.
+
+        3. extend() :-
+            add multiple element end of the list.
+
+    2. Deleting Elements :-
+        1. remove() :-
+            Removes first occurrence of a value.
+        
+        2. pop() :-
+            Removes by index and returns the value.
+
+        3. clear() :-
+            Remove all element form the list.
+
+    3. Updating Elements :-
+        Modify an element by directly assigning a new value.
+
+    4. Slicing a List :-
+        Extract multiple elements using start:end:step syntax.

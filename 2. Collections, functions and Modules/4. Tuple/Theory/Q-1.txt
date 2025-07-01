@@ -1,0 +1,22 @@
+Q-1. Introduction to tuples, immutability
+
+ans:
+    Tuple :-
+        A tuple is a collection type in python that similar to list but one difference tuple are immutable. 
+        means once a tuple is created then after it's value can't be change.
+
+    1. Creating Tuples :-
+        Tuples are defined using parentheses () or just commas.
+
+    2. Accessing Elements in a Tuple :-
+        You can retrieve values using indexing (just like lists)
+
+    3. Immutability of Tuples :-
+        Tuples cannot be modified after creation.
+
+    4. Tuple Operations :-
+        1. Concatenation :-
+            Concatenate tuples using (+).
+
+        2. Repetition :-
+            Repeat element using (*).

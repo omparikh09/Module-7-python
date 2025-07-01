@@ -1,0 +1,25 @@
+Q-2. Accessing, adding, updating, and deleting dictionary elements.
+
+ans: 
+    1. Accessing Elements :- 
+        Access a values using their keys.
+
+    2. Adding Elements :-
+        Simply assign a new key-value pair.
+
+        Example :-
+            student["city"] = "Ahmedabad" 
+
+    3. Updating Elements :-
+        -> Modify an existing key’s value.
+        -> use .update() for multiple changes
+
+    4. Deleting Elements :-
+        1. del :- 
+            Using del Removes key-value pair.
+
+        2. pop() :-
+            using pop() Removes and returns the value.
+
+        3. clear() :-
+            Clearing the entire dictionary.

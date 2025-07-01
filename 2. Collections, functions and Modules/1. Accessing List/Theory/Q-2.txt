@@ -1,0 +1,12 @@
+Q-2. Indexing in lists (positive and negative indexing).
+
+ans:
+    Indexing in list you to access individual elements using their position.
+
+    1. Positive Indexing :-
+        -> Index starts at 0 for the first element.
+
+        -> Access elements directly using index.
+
+    2. Negative Indexing :- 
+        Negative indexes start from the end, with -1 referring to the last element.

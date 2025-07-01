@@ -1,0 +1,11 @@
+Q-3. Basic operations with tuples: concatenation, repetition, membership.
+
+ans:
+    1. Concatenation :-
+        Concatenate tuple using (+) Operator.
+
+    2. Repetition :-
+        Repeat tuple using (*) Operator.
+
+    3. Membership :-
+        if check the value is member of a tuple using or no using in or not in Operator.

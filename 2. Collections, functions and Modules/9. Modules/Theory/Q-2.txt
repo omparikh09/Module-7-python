@@ -1,0 +1,18 @@
+Q-2. Standard library modules: math, random.
+
+ans:
+    Standard library include powerful built in modules like math and random.
+
+    1. math Module :-
+        The math module provides functions for advanced mathematical operations.
+    
+        Example :-
+            sqrt()
+            pow()
+            ceil()
+            floor()
+            pi()
+            e()
+
+    2. random Module :-
+        The random module helps in generating random numbers, selecting random elements.

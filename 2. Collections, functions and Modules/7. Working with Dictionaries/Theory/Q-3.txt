@@ -1,0 +1,10 @@
+Q-3. Counting occurrences of characters in a string using dictionaries.
+
+ans:
+    1. Using a for Loop :-
+        -> This method iterates through the string and updates counts in a dictionary.
+
+        -> get(char, 0) + 1 ensures characters are counted properly without errors.
+
+    2. Using collections.Counter :-
+        Python’s collections module has a built-in Counter class for counting occurrences.
